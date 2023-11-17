@@ -7,3 +7,4 @@ In game section there are some functions used to test the game. At the end of th
 Same for fitness: I tried different ones, but the one that works is the one called "fitness2".
 
 Talking about the evolution strategy, the chosen one is the (mu+lambda). I chose percentages as parameters to optimize, each associated to one rule. It seems working 
+ 
